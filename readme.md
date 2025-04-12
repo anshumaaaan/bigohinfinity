@@ -3,15 +3,6 @@
 <p align="center"><img src="https://i.ibb.co/xgxQNw2/icons8-chess-32.png" alt="project-image"></p>
 
 <p id="description">This repository contains code for a computer vision-based system designed to analyze chess games played offline. Traditional offline chess games lack the automated analysis capabilities of online games due to the absence of digital records of moves. To bridge this gap we introduce a novel approach utilizing computer vision to detect and analyze chessboard positions enabling comprehensive move-by-move analytics.</p>
-
-<h2>Project Screenshots:</h2>
-
-<img src="https://i.postimg.cc/MKgQd94z/chess-app-ui.png" alt="project-screenshot">
-
-<img src="https://i.postimg.cc/6QXGNytS/qw8580cw.png" alt="project-screenshot">
-
-<img src="https://i.postimg.cc/Z53ygrtp/Whats-App-Image-2024-03-10-at-10-04-24.jpg" alt="project-screenshot">
-
   
   
 <h2>🧐 Overview</h2>
@@ -51,8 +42,6 @@ Here're some of the project's best features:
 Technologies used in the project:
 
 *   Flutter
-*   Yolov5
 *   Dart
 *   OpenCV
 *   Tensorflow
-*   Firebase
