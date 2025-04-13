@@ -1,6 +1,5 @@
 <h1 align="center" id="title">Chess Vision</h1>
 
-<p align="center"><img src="https://i.ibb.co/xgxQNw2/icons8-chess-32.png" alt="project-image"></p>
 
 <p id="description">This repository contains code for a computer vision-based system designed to analyze chess games played offline. Traditional offline chess games lack the automated analysis capabilities of online games due to the absence of digital records of moves. To bridge this gap we introduce a novel approach utilizing computer vision to detect and analyze chessboard positions enabling comprehensive move-by-move analytics.</p>
   
